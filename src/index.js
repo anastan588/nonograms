@@ -1,0 +1,15 @@
+import './assets/modules/layout';
+import './assets/modules/field';
+import './assets/modules/game';
+import './assets/modules/gamesolution';
+import './assets/nonograms/nonograms';
+import './style.scss';
+import './assets/fonts/Gelasio-Regular.ttf';
+import './assets/images/catbackground.png';
+import './assets/images/soundon.png';
+import './assets/images/favicon.ico';
+import './assets/images/soundoff.png';
+import './assets/sounds/fillsound.mp3';
+import './assets/sounds/emptysound.mp3';
+import './assets/sounds/crosssound.mp3';
+import './assets/sounds/winsound.mp3';
